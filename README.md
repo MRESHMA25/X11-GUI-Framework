@@ -61,4 +61,4 @@ This will open a window displaying various panels and buttons, demonstrating GUI
 - Only standard C++ libraries (iostream, string, sstream, iomanip) are used.
 - No external libraries beyond X11 are required.
 
-This program was created by @MRESHMA25
+> This program was created by @MRESHMA25
