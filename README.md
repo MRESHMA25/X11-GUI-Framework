@@ -62,4 +62,4 @@ This will open a window displaying various panels and buttons, demonstrating GUI
 - No external libraries beyond X11 are required.
   
 
-> This program was created by @MRESHMA25
+This program was created by @MRESHMA25
