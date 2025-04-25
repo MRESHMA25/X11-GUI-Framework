@@ -60,5 +60,6 @@ This will open a window displaying various panels and buttons, demonstrating GUI
 - Memory management, array bounds, and overlap detection are carefully handled.
 - Only standard C++ libraries (iostream, string, sstream, iomanip) are used.
 - No external libraries beyond X11 are required.
+  
 
 > This program was created by @MRESHMA25
